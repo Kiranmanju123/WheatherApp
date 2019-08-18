@@ -1,0 +1,3 @@
+# WheatherApp
+Android Live Wheather App using openwheather API
+LiveWheather Android App using java give us live wheather status of the place given... 
